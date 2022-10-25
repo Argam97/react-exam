@@ -1,0 +1,26 @@
+.TodoList {
+    width: 60vw;
+    height: 80vh;
+    background-color: silver;
+    display: flex;
+    justify-content: start;
+    align-items: center;
+    flex-direction: column;
+    gap: 10px;
+    padding: 10px;
+}
+
+.TodoList input {
+    width: 300px;
+    height: 35px;
+    border-radius: 6px;
+}
+.TodoList button{
+    width: 50px;
+    height: 35px;
+    border-radius: 6px;
+
+}
+.Todos{
+    width: 100%;
+}

@@ -1,0 +1,21 @@
+.done{
+    text-decoration: line-through;
+    color: green;
+}
+
+.todo{
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+
+}
+.checkBox {
+    width: 20px !important;
+}
+.todoOpt {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 10px;
+}
